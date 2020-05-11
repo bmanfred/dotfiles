@@ -83,6 +83,7 @@ cat vimrc > ~/.vimrc
 cat zshrc > ~/.zshrc
 
 echo "To save changes, source .vimrc and .zshrc"
+echo "to get vim changes, in vim run :source % and :PluginInstall"
 
 
 
